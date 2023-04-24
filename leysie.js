@@ -3,4 +3,4 @@ celsius1 = parseFloat(celsius1);
 
 //
 var farenheit = (9/5*celsious1+32);
-document.write("De celsius a farenheit es: ");
+document.write("De celsius a farenheit es: ", farenheit1);
